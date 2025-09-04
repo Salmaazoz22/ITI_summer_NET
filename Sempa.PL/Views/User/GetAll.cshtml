@@ -1,0 +1,19 @@
+﻿@using Resturant.BLL.ModelVM.User
+@model (List<GetAllUser>, string?,bool) 
+@if (Model.Item3 == true)
+{
+	<p>
+	@Model.Item2
+	</p>
+}
+else
+{
+	foreach(var item in Model.Item1)
+	{
+
+		<p>
+			@item.Name
+		</p>
+		
+	}
+}

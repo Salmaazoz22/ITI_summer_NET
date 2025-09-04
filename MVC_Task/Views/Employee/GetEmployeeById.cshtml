@@ -1,0 +1,56 @@
+﻿@model Employee
+<div class="card">
+    <div class="card-header">
+        Display Employee
+    </div>
+    <div class="card-body">
+        @if (ViewBag.ErrorMessage != null)
+        {
+
+            <p class="text-danger">@ViewBag.ErrorMessage</p>
+
+        }
+        else
+        {
+            <form asp-action="UpdateEmployee" asp-controller="Employee">
+
+                <input type="hidden" asp-for="Id" />
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Name</label>
+                    <input readonly type="text" asp-for="Name" class="form-control" />
+                    <span class="text-danger">@ViewBag.NameError</span>
+                </div>
+
+                <div class="mb-3">
+                    <label for="Age" class="form-label">Age</label>
+                    <input readonly type="number" asp-for="Age" class="form-control" />
+                    <span class="text-danger">@ViewBag.AgeError</span>
+                </div>
+
+                <div class="mb-3">
+                    <label for="Position" class="form-label">Position</label>
+                    <input readonly type="text" asp-for="Position" class="form-control" />
+                    <span class="text-danger">@ViewBag.PositionError</span>
+                </div>
+
+                <div class="mb-3">
+                    <label for="Salary" class="form-label">Salary</label>
+                    <input readonly type="number" asp-for="Salary" class="form-control" />
+                    <span class="text-danger">@ViewBag.SalaryError</span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Department</label>
+                    <input type="text" class="form-control" value="@Model.Department?.Name" readonly />
+                    <input type="hidden" asp-for="DepartmentId" />
+                </div>
+                <a asp-action="Index" asp-sp-controller="Employee" class="btn btn-outline-dark">
+                    Back
+                </a>
+                <a asp-action="Delete" asp-sp-controller="Employee" asp-route-Id="@Model.Id" class="btn btn-outline-dark">
+                    Delete
+                </a>
+            </form>
+        }
+    </div>
+</div>

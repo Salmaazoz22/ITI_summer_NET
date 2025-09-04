@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI_tasks\\Sempa.PL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA21D90-BE76-4029-A078-708DE6689E7C}|..\\Sempa.BLL\\Resturant.BLL.csproj|d:\\iti_tasks\\sempa.bll\\services\\abstraction\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176E95A5-CEEC-41A9-B0D8-D98768FA546E}|..\\Restaurant.DAL\\Restaurant.DAL.csproj|d:\\iti_tasks\\restaurant.dal\\repo\\implementation\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176E95A5-CEEC-41A9-B0D8-D98768FA546E}|..\\Restaurant.DAL\\Restaurant.DAL.csproj|d:\\iti_tasks\\restaurant.dal\\repo\\abstractions\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA21D90-BE76-4029-A078-708DE6689E7C}|..\\Sempa.BLL\\Resturant.BLL.csproj|d:\\iti_tasks\\sempa.bll\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D750FF-5557-4F04-BE32-FE33C151D5BE}|Restaurant.PL.csproj|d:\\iti_tasks\\sempa.pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D750FF-5557-4F04-BE32-FE33C151D5BE}|Restaurant.PL.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA21D90-BE76-4029-A078-708DE6689E7C}|..\\Sempa.BLL\\Resturant.BLL.csproj|d:\\iti_tasks\\sempa.bll\\modelvm\\user\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI_tasks\\Restaurant.DAL\\Migrations\\20250831160604_addTable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176E95A5-CEEC-41A9-B0D8-D98768FA546E}|..\\Restaurant.DAL\\Restaurant.DAL.csproj|d:\\iti_tasks\\restaurant.dal\\database\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI_tasks\\Restaurant.DAL\\Migrations\\20250831160155_addTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176E95A5-CEEC-41A9-B0D8-D98768FA546E}|..\\Restaurant.DAL\\Restaurant.DAL.csproj|d:\\iti_tasks\\restaurant.dal\\entitiy\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D750FF-5557-4F04-BE32-FE33C151D5BE}|Restaurant.PL.csproj|d:\\iti_tasks\\sempa.pl\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D750FF-5557-4F04-BE32-FE33C151D5BE}|Restaurant.PL.csproj|solutionrelative:views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176E95A5-CEEC-41A9-B0D8-D98768FA546E}|..\\Restaurant.DAL\\Restaurant.DAL.csproj|d:\\iti_tasks\\restaurant.dal\\entitiy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176E95A5-CEEC-41A9-B0D8-D98768FA546E}|..\\Restaurant.DAL\\Restaurant.DAL.csproj|d:\\iti_tasks\\restaurant.dal\\enum\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D750FF-5557-4F04-BE32-FE33C151D5BE}|Restaurant.PL.csproj|d:\\iti_tasks\\sempa.pl\\views\\user\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D750FF-5557-4F04-BE32-FE33C151D5BE}|Restaurant.PL.csproj|solutionrelative:views\\user\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA21D90-BE76-4029-A078-708DE6689E7C}|..\\Sempa.BLL\\Resturant.BLL.csproj|d:\\iti_tasks\\sempa.bll\\modelvm\\user\\getalluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176E95A5-CEEC-41A9-B0D8-D98768FA546E}|..\\Restaurant.DAL\\Restaurant.DAL.csproj|d:\\iti_tasks\\restaurant.dal\\comman\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA21D90-BE76-4029-A078-708DE6689E7C}|..\\Sempa.BLL\\Resturant.BLL.csproj|d:\\iti_tasks\\sempa.bll\\comman\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI_tasks\\Restaurant.DAL\\Migrations\\20250830213913_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D750FF-5557-4F04-BE32-FE33C151D5BE}|Restaurant.PL.csproj|d:\\iti_tasks\\sempa.pl\\restaurant.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51D750FF-5557-4F04-BE32-FE33C151D5BE}|Restaurant.PL.csproj|solutionrelative:restaurant.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA21D90-BE76-4029-A078-708DE6689E7C}|..\\Sempa.BLL\\Resturant.BLL.csproj|d:\\iti_tasks\\sempa.bll\\resturant.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176E95A5-CEEC-41A9-B0D8-D98768FA546E}|..\\Restaurant.DAL\\Restaurant.DAL.csproj|d:\\iti_tasks\\restaurant.dal\\restaurant.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D750FF-5557-4F04-BE32-FE33C151D5BE}|Sempa.PL.csproj|d:\\iti_tasks\\sempa.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D750FF-5557-4F04-BE32-FE33C151D5BE}|Sempa.PL.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Sempa.BLL\\Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Sempa.BLL\\Services\\Implementation\\UserService.cs",
+              "ToolTip": "D:\\ITI_tasks\\Sempa.BLL\\Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "..\\Sempa.BLL\\Services\\Implementation\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:04:33.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Restaurant.DAL\\Repo\\Abstractions\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "..\\Restaurant.DAL\\Repo\\Abstractions\\IUserRepo.cs",
+              "ToolTip": "D:\\ITI_tasks\\Restaurant.DAL\\Repo\\Abstractions\\IUserRepo.cs",
+              "RelativeToolTip": "..\\Restaurant.DAL\\Repo\\Abstractions\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:47:53.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Restaurant.DAL\\Repo\\Implementation\\UserRepo.cs",
+              "RelativeDocumentMoniker": "..\\Restaurant.DAL\\Repo\\Implementation\\UserRepo.cs",
+              "ToolTip": "D:\\ITI_tasks\\Restaurant.DAL\\Repo\\Implementation\\UserRepo.cs",
+              "RelativeToolTip": "..\\Restaurant.DAL\\Repo\\Implementation\\UserRepo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:49:09.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Sempa.BLL\\Services\\Abstraction\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Sempa.BLL\\Services\\Abstraction\\IUserService.cs",
+              "ToolTip": "D:\\ITI_tasks\\Sempa.BLL\\Services\\Abstraction\\IUserService.cs",
+              "RelativeToolTip": "..\\Sempa.BLL\\Services\\Abstraction\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T08:59:55.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Sempa.PL\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\ITI_tasks\\Sempa.PL\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T08:54:45.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUser.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Sempa.BLL\\ModelVM\\User\\CreateUser.cs",
+              "RelativeDocumentMoniker": "..\\Sempa.BLL\\ModelVM\\User\\CreateUser.cs",
+              "ToolTip": "D:\\ITI_tasks\\Sempa.BLL\\ModelVM\\User\\CreateUser.cs",
+              "RelativeToolTip": "..\\Sempa.BLL\\ModelVM\\User\\CreateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:09:17.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250831160604_addTable1.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Restaurant.DAL\\Migrations\\20250831160604_addTable1.cs",
+              "RelativeDocumentMoniker": "..\\Restaurant.DAL\\Migrations\\20250831160604_addTable1.cs",
+              "ToolTip": "D:\\ITI_tasks\\Restaurant.DAL\\Migrations\\20250831160604_addTable1.cs",
+              "RelativeToolTip": "..\\Restaurant.DAL\\Migrations\\20250831160604_addTable1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:06:04.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250831160155_addTable.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Restaurant.DAL\\Migrations\\20250831160155_addTable.cs",
+              "RelativeDocumentMoniker": "..\\Restaurant.DAL\\Migrations\\20250831160155_addTable.cs",
+              "ToolTip": "D:\\ITI_tasks\\Restaurant.DAL\\Migrations\\20250831160155_addTable.cs",
+              "RelativeToolTip": "..\\Restaurant.DAL\\Migrations\\20250831160155_addTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T16:01:56.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Restaurant.DAL\\Entitiy\\Table.cs",
+              "RelativeDocumentMoniker": "..\\Restaurant.DAL\\Entitiy\\Table.cs",
+              "ToolTip": "D:\\ITI_tasks\\Restaurant.DAL\\Entitiy\\Table.cs*",
+              "RelativeToolTip": "..\\Restaurant.DAL\\Entitiy\\Table.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:45:03.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ITI_tasks\\Sempa.PL\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\ITI_tasks\\Sempa.PL\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T12:45:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RestaurantDbContext.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Restaurant.DAL\\Database\\RestaurantDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Restaurant.DAL\\Database\\RestaurantDbContext.cs",
+              "ToolTip": "D:\\ITI_tasks\\Restaurant.DAL\\Database\\RestaurantDbContext.cs",
+              "RelativeToolTip": "..\\Restaurant.DAL\\Database\\RestaurantDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:23:54.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Restaurant.DAL\\Entitiy\\User.cs",
+              "RelativeDocumentMoniker": "..\\Restaurant.DAL\\Entitiy\\User.cs",
+              "ToolTip": "D:\\ITI_tasks\\Restaurant.DAL\\Entitiy\\User.cs",
+              "RelativeToolTip": "..\\Restaurant.DAL\\Entitiy\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:30:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Type.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Restaurant.DAL\\Enum\\Type.cs",
+              "RelativeDocumentMoniker": "..\\Restaurant.DAL\\Enum\\Type.cs",
+              "ToolTip": "D:\\ITI_tasks\\Restaurant.DAL\\Enum\\Type.cs",
+              "RelativeToolTip": "..\\Restaurant.DAL\\Enum\\Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:31:22.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "D:\\ITI_tasks\\Sempa.PL\\Views\\User\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\GetAll.cshtml",
+              "ToolTip": "D:\\ITI_tasks\\Sempa.PL\\Views\\User\\GetAll.cshtml",
+              "RelativeToolTip": "Views\\User\\GetAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T10:27:53.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Restaurant.PL",
+              "DocumentMoniker": "D:\\ITI_tasks\\Sempa.PL\\Restaurant.PL.csproj",
+              "RelativeDocumentMoniker": "Restaurant.PL.csproj",
+              "ToolTip": "D:\\ITI_tasks\\Sempa.PL\\Restaurant.PL.csproj",
+              "RelativeToolTip": "Restaurant.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-30T21:37:12.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllUser.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Sempa.BLL\\ModelVM\\User\\GetAllUser.cs",
+              "RelativeDocumentMoniker": "..\\Sempa.BLL\\ModelVM\\User\\GetAllUser.cs",
+              "ToolTip": "D:\\ITI_tasks\\Sempa.BLL\\ModelVM\\User\\GetAllUser.cs",
+              "RelativeToolTip": "..\\Sempa.BLL\\ModelVM\\User\\GetAllUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:09:37.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Global.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Sempa.BLL\\Comman\\Global.cs",
+              "RelativeDocumentMoniker": "..\\Sempa.BLL\\Comman\\Global.cs",
+              "ToolTip": "D:\\ITI_tasks\\Sempa.BLL\\Comman\\Global.cs",
+              "RelativeToolTip": "..\\Sempa.BLL\\Comman\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:05:56.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Global.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Restaurant.DAL\\Comman\\Global.cs",
+              "RelativeDocumentMoniker": "..\\Restaurant.DAL\\Comman\\Global.cs",
+              "ToolTip": "D:\\ITI_tasks\\Restaurant.DAL\\Comman\\Global.cs",
+              "RelativeToolTip": "..\\Restaurant.DAL\\Comman\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T08:11:08.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250830213913_init.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Restaurant.DAL\\Migrations\\20250830213913_init.cs",
+              "RelativeDocumentMoniker": "..\\Restaurant.DAL\\Migrations\\20250830213913_init.cs",
+              "ToolTip": "D:\\ITI_tasks\\Restaurant.DAL\\Migrations\\20250830213913_init.cs",
+              "RelativeToolTip": "..\\Restaurant.DAL\\Migrations\\20250830213913_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T21:39:13.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Resturant.BLL.csproj",
+              "DocumentMoniker": "D:\\ITI_tasks\\Sempa.BLL\\Resturant.BLL.csproj",
+              "RelativeDocumentMoniker": "..\\Sempa.BLL\\Resturant.BLL.csproj",
+              "ToolTip": "D:\\ITI_tasks\\Sempa.BLL\\Resturant.BLL.csproj*",
+              "RelativeToolTip": "..\\Sempa.BLL\\Resturant.BLL.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-30T20:42:52.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Restaurant.DAL.csproj",
+              "DocumentMoniker": "D:\\ITI_tasks\\Restaurant.DAL\\Restaurant.DAL.csproj",
+              "RelativeDocumentMoniker": "..\\Restaurant.DAL\\Restaurant.DAL.csproj",
+              "ToolTip": "D:\\ITI_tasks\\Restaurant.DAL\\Restaurant.DAL.csproj",
+              "RelativeToolTip": "..\\Restaurant.DAL\\Restaurant.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-30T19:14:06.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ITI_tasks\\Sempa.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ITI_tasks\\Sempa.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T20:20:17.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

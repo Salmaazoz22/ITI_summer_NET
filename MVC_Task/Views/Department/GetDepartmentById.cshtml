@@ -1,0 +1,32 @@
+﻿@model Department
+
+<div class="card">
+    <div class="card-header">
+        Display Department
+    </div>
+    <div class="card-body">
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <p class="text-danger">@ViewBag.ErrorMessage</p>
+        }
+        else
+        {
+            <form asp-action="UpdateDepartment" asp-controller="Department">
+                <input type="hidden" asp-for="Id" />
+
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Department Name</label>
+                    <input readonly type="text" asp-for="Name" class="form-control" />
+                    <span class="text-danger">@ViewBag.NameError</span>
+                </div>
+
+                <a asp-action="Index" asp-controller="Department" class="btn btn-outline-dark">
+                    Back
+                </a>
+                <a asp-action="Delete" asp-controller="Department" asp-route-id="@Model.Id" class="btn btn-outline-danger">
+                    Delete
+                </a>
+            </form>
+        }
+    </div>
+</div>

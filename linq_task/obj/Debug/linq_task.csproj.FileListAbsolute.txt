@@ -1,0 +1,7 @@
+D:\ITI_tasks\linq_task\bin\Debug\linq_task.exe.config
+D:\ITI_tasks\linq_task\bin\Debug\linq_task.exe
+D:\ITI_tasks\linq_task\bin\Debug\linq_task.pdb
+D:\ITI_tasks\linq_task\obj\Debug\linq_task.csproj.AssemblyReference.cache
+D:\ITI_tasks\linq_task\obj\Debug\linq_task.csproj.CoreCompileInputs.cache
+D:\ITI_tasks\linq_task\obj\Debug\linq_task.exe
+D:\ITI_tasks\linq_task\obj\Debug\linq_task.pdb

@@ -1,0 +1,26 @@
+﻿@model MVC_Task.Models.Department
+
+<div class="card">
+    <div class="card-header">Edit Department</div>
+    <div class="card-body">
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <p class="text-danger">@ViewBag.ErrorMessage</p>
+        }
+        else
+        {
+            <form asp-action="UpdateDepartment" asp-controller="Department">
+                <input type="hidden" asp-for="Id" />
+
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Department Name</label>
+                    <input type="text" asp-for="Name" class="form-control" />
+                    <span class="text-danger">@ViewBag.ErrorMessage</span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Save</button>
+            </form>
+        }
+    </div>
+</div>
+

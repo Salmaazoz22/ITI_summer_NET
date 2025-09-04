@@ -1,0 +1,8 @@
+D:\ITI_tasks\Task6\bin\Debug\Task6.exe.config
+D:\ITI_tasks\Task6\bin\Debug\Task6.exe
+D:\ITI_tasks\Task6\bin\Debug\Task6.pdb
+D:\ITI_tasks\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+D:\ITI_tasks\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+D:\ITI_tasks\Task6\obj\Debug\Task6.exe
+D:\ITI_tasks\Task6\obj\Debug\Task6.pdb
+D:\ITI_tasks\Task6\obj\Debug\Task6.exe.config

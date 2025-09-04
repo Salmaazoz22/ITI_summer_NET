@@ -1,0 +1,16 @@
+D:\ITI_tasks\Sempa.BLL\bin\Debug\net8.0\Resturant.BLL.deps.json
+D:\ITI_tasks\Sempa.BLL\bin\Debug\net8.0\Resturant.BLL.dll
+D:\ITI_tasks\Sempa.BLL\bin\Debug\net8.0\Resturant.BLL.pdb
+D:\ITI_tasks\Sempa.BLL\bin\Debug\net8.0\Restaurant.DAL.dll
+D:\ITI_tasks\Sempa.BLL\bin\Debug\net8.0\Restaurant.DAL.pdb
+D:\ITI_tasks\Sempa.BLL\obj\Debug\net8.0\Resturant.BLL.csproj.AssemblyReference.cache
+D:\ITI_tasks\Sempa.BLL\obj\Debug\net8.0\Resturant.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_tasks\Sempa.BLL\obj\Debug\net8.0\Resturant.BLL.AssemblyInfoInputs.cache
+D:\ITI_tasks\Sempa.BLL\obj\Debug\net8.0\Resturant.BLL.AssemblyInfo.cs
+D:\ITI_tasks\Sempa.BLL\obj\Debug\net8.0\Resturant.BLL.csproj.CoreCompileInputs.cache
+D:\ITI_tasks\Sempa.BLL\obj\Debug\net8.0\Resturant.BLL.sourcelink.json
+D:\ITI_tasks\Sempa.BLL\obj\Debug\net8.0\Resturan.4FDFDA80.Up2Date
+D:\ITI_tasks\Sempa.BLL\obj\Debug\net8.0\Resturant.BLL.dll
+D:\ITI_tasks\Sempa.BLL\obj\Debug\net8.0\refint\Resturant.BLL.dll
+D:\ITI_tasks\Sempa.BLL\obj\Debug\net8.0\Resturant.BLL.pdb
+D:\ITI_tasks\Sempa.BLL\obj\Debug\net8.0\ref\Resturant.BLL.dll
